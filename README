@@ -2,7 +2,7 @@ NAME
     Task::BeLike::SHARYANTO::Spec - SHARYANTO's spec distributions
 
 VERSION
-    version 0.01
+    version 0.02
 
 DESCRIPTION
     This task will install all SHARYANTO's spec distributions, i.e. those
@@ -10,6 +10,7 @@ DESCRIPTION
 
 TASK CONTENTS
   Included modules
+   DefHash
    Riap
    Rinci
    Sah

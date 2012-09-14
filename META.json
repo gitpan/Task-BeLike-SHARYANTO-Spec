@@ -26,6 +26,7 @@
       },
       "runtime" : {
          "requires" : {
+            "DefHash" : 0,
             "Riap" : 0,
             "Rinci" : 0,
             "Sah" : 0,
@@ -41,6 +42,6 @@
          "url" : "http://github.com/sharyanto/perl-Task-BeLike-SHARYANTO-Spec"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
 
