@@ -15,6 +15,7 @@ meta-spec:
 name: Task-BeLike-SHARYANTO-Spec
 requires:
   DefHash: 0
+  IOD: 0
   Riap: 0
   Rinci: 0
   Sah: 0
@@ -23,4 +24,4 @@ requires:
 resources:
   homepage: http://metacpan.org/release/Task-BeLike-SHARYANTO-Spec
   repository: http://github.com/sharyanto/perl-Task-BeLike-SHARYANTO-Spec
-version: 0.02
+version: 0.03

@@ -1,6 +1,6 @@
 package Task::BeLike::SHARYANTO::Spec;
 
-our $VERSION = '0.02'; # VERSION
+our $VERSION = '0.03'; # VERSION
 
 
 1;
@@ -15,7 +15,7 @@ Task::BeLike::SHARYANTO::Spec - SHARYANTO's spec distributions
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 DESCRIPTION
 
@@ -27,6 +27,8 @@ contain only specification and not implementation.
 =head2 Included modules
 
 =head3 L<DefHash>
+
+=head3 L<IOD>
 
 =head3 L<Riap>
 
